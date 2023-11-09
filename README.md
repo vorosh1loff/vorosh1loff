@@ -10,6 +10,7 @@
 <b border-bottom = "black"><br>Skills: HTML / CSS / JS / UNIX / WEB </b>
 </div>
 
+<hr>
 <br>
 
 - 📖Профессия «Фронтенд-разработчик LITE + JavaScript-разработчик LITE #2» HTML Academy;
