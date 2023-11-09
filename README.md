@@ -9,7 +9,7 @@
   <b><br>Front-end dev<br> </b>
 <b><br>Don't worry, it's my job.</b>
 
-<b border-bottom = "black"><br>Skills: HTML / CSS / JS / UNIX / WEB </b>
+<b border-bottom = "black"><br>HTML / CSS / JS / UNIX / WEB </b>
 </div>
 
 <hr>
