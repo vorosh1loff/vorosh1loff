@@ -19,10 +19,3 @@
 
 
 
-<style>
-  img{
-    fill: red;
-  }
-</style>
-
-
