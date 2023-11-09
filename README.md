@@ -24,12 +24,9 @@
 
 <hr>
 <br>
+
 <div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vorosh1loff)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vorosh1loff&show_icons=true)  
-
 </div>
 
 
