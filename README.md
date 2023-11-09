@@ -3,7 +3,15 @@
 </div>
 
 
-
+<div class="cont">
+  <style>
+    .cont{
+      width: 600px;
+      height: 75px;
+      background-color: black;
+    }
+  </style>
+</div>
 
 <div align="center">
   <b><br>Front-end dev<br> </b>
