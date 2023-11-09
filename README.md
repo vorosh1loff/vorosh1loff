@@ -15,7 +15,7 @@
 <hr>
 <br>
 
-<p align="center">⭐️<b>Skills</b>⭐️</p>
+<p align="center">⭐️<b>Certificates</b>⭐️</p>
 
 <br>
 
