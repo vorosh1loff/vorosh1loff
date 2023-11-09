@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <b><br>Front-end dev<br></b> 
+  <h1><br>Front-end dev<br></h1>
 <b><br>Don't worry, it's my job.</b>
 
 <b><br>Skills: HTML / CSS / JS / UNIX / WEB </b>
