@@ -4,14 +4,13 @@
 
 
 <div align="center">
-  <h1><br>Front-end dev<br>
+  <b><br>Front-end dev<br> </b>
 <b><br>Don't worry, it's my job.</b>
 
 <b><br>Skills: HTML / CSS / JS / UNIX / WEB </b>
-</h1>
 </div>
 
-<br>
+
 
 - 📖Профессия «Фронтенд-разработчик LITE + JavaScript-разработчик LITE #2» HTML Academy;
 - 📖CCNA R&S: Routing and Switching Essentials;
