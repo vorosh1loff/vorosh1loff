@@ -15,6 +15,8 @@
 <hr>
 <br>
 
+<h1 align="center">⭐️ADVANTAGES⭐️</h1>
+
 - 📖Профессия «Фронтенд-разработчик LITE + JavaScript-разработчик LITE #2» HTML Academy;
 - 📖CCNA R&S: Routing and Switching Essentials;
 - 📖CCNA R&S: Introduction to Networks;
