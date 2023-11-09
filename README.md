@@ -41,7 +41,7 @@
 
   
   </a>
-  <a href="https://t.me/vorosh1loff"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>
+  <a href="https://t.me/vorosh1loff"><img background="red" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>
   <a href="https://vk.com/id95299273"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'></a>
   <a href="https://steamcommunity.com/id/yourlittlepa1n"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'></a>
 </div>
