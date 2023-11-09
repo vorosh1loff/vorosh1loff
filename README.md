@@ -15,7 +15,9 @@
 <hr>
 <br>
 
-<p align="center" size="24">⭐️Skills⭐️</p>
+<p align="center">⭐️<b>Skills</b>⭐️</p>
+
+<br>
 
 - 📖Профессия «Фронтенд-разработчик LITE + JavaScript-разработчик LITE #2» HTML Academy;
 - 📖CCNA R&S: Routing and Switching Essentials;
