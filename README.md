@@ -19,4 +19,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=200&size=21&pause=1000&color=29F772&background=FF636300&center=true&vCenter=true&random=false&width=600&height=75&lines=Welcome+to+my+GitHub+account%2C+my+name+is+Evgeniy!" alt="Typing SVG" /></a>
