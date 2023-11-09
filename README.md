@@ -1,8 +1,10 @@
-### 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-#### I'm front-end developer
+<div align="center">
+  #### I'm front-end developer
 <b>Don't worry, be careful!</b>
 
 <b>Skills: HTML / CSS / JS / UNIX / WEB </b>
+</div>
+
 
 - 📖Профессия «Фронтенд-разработчик LITE + JavaScript-разработчик LITE #2» HTML Academy;
 - 📖CCNA R&S: Routing and Switching Essentials;
