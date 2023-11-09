@@ -5,9 +5,9 @@
 
 <div align="center">
   <b><br>Front-end dev<br></b> 
-<b><br>Don't worry, it's my job. <br></b>
+<b><br>Don't worry, it's my job.</b>
 
-<b>Skills: HTML / CSS / JS / UNIX / WEB </b>
+<b><br>Skills: HTML / CSS / JS / UNIX / WEB </b>
 </div>
 
 <br>
