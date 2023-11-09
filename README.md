@@ -9,7 +9,7 @@
 <b border-bottom = "black"><br>HTML / CSS / JS / UNIX / WEB </b>
 </div>
 
-<hr>
+<hr size="15px">
 <br>
 
 <p align="center">⭐️<b>Certificates</b>⭐️</p>
