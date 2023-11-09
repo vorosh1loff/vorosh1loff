@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <b><br>I'm front-end developer<br></b> 
-<b><br>Don't worry, be careful!<br></b>
+  <b><br>Front-end dev<br></b> 
+<b><br>Don't worry, it's my job.<br></b>
 
 <b>Skills: HTML / CSS / JS / UNIX / WEB </b>
 </div>
