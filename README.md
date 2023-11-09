@@ -4,10 +4,11 @@
 
 
 <div align="center">
-  <h1><br>Front-end dev<br></h1>
+  <h1><br>Front-end dev<br>
 <b><br>Don't worry, it's my job.</b>
 
 <b><br>Skills: HTML / CSS / JS / UNIX / WEB </b>
+</h1>
 </div>
 
 <br>
