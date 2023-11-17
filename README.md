@@ -40,4 +40,9 @@
   <a href="https://steamcommunity.com/id/yourlittlepa1n"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'></a>
 </div>
 
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=2000&color=8A2BE2&random=false&width=435&lines=+%E2%86%93+%E2%86%93+%E2%86%93+Look+my+pinned+project++%E2%86%93+%E2%86%93+%E2%86%93" alt="Typing SVG" /></a>
+
+</div>
 
