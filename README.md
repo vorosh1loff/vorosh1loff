@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <b><br>Front-end dev<br> </b>
+  <b><br>Front-end dev<br></b>
 <b><br>Don't worry, it's my job</b>
 
 <b border-bottom = "black"><br>HTML / CSS / JS / UNIX / WEB </b>
@@ -41,8 +41,6 @@
 </div>
 
 <div align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=2000&color=8A2BE2&random=false&width=435&lines=+%E2%86%93+%E2%86%93+%E2%86%93+Look+my+pinned+project++%E2%86%93+%E2%86%93+%E2%86%93" alt="Typing SVG" /></a>
-
 </div>
 
