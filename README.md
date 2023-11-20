@@ -12,7 +12,7 @@
 <hr>
 <br>
 
-<p align="center">⭐️<b>Certificates</b>⭐️</p>
+<p align="center">⭐️<b>Certificates & Courses</b>⭐️</p>
 
 <br>
 
