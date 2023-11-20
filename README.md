@@ -16,12 +16,12 @@
 
 <br>
 
-- 📖Интенсив по теме "Front-end start" ITLogia;
 - 📖Профессия «Фронтенд-разработчик LITE + JavaScript-разработчик LITE #2» HTML Academy;
 - 📖CCNA R&S: Routing and Switching Essentials;
 - 📖CCNA R&S: Introduction to Networks;
 - 📖Introduction to Cybersecurity;
 - 📖Partner: PCAP - Programming Essentials in Python;
+- 📖Интенсив по теме "Frontend start" ITLogia;
 
 <hr>
 <br>
