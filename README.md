@@ -40,6 +40,8 @@
   <a href="https://vk.com/id95299273"><img src='https://github.com/vorosh1loff/pictures/blob/main/vk.svg' alt='vk' height='40'></a>
   <a href="https://steamcommunity.com/id/yourlittlepa1n"><img src='https://github.com/vorosh1loff/pictures/blob/main/steam.svg' alt='steam' height='40'></a>
 
+  <br>
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=2000&color=8A2BE2&random=false&width=435&lines=+%E3%85%A4%E3%85%A4%E2%86%93+%E2%86%93+%E2%86%93+Look+my+pinned+project++%E2%86%93+%E2%86%93+%E2%86%93" alt="Typing SVG" /></a>
 </div>
 
