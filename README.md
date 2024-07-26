@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/vorosh1loff"><img src="https://github.com/vorosh1loff/pictures/blob/main/github.svg" alt='github' height='40'></a>
-  <a href="https://t.me/vorosh1loff"><img src='https://github.com/vorosh1loff/pictures/blob/main/telegram.svg' alt='telegram' height='40'></a>
+  <a href="https://t.me/isxaoc"><img src='https://github.com/vorosh1loff/pictures/blob/main/telegram.svg' alt='telegram' height='40'></a>
   <a href="https://vk.com/id95299273"><img src='https://github.com/vorosh1loff/pictures/blob/main/vk.svg' alt='vk' height='40'></a>
   <a href="https://steamcommunity.com/id/yourlittlepa1n"><img src='https://github.com/vorosh1loff/pictures/blob/main/steam.svg' alt='steam' height='40'></a>
 
